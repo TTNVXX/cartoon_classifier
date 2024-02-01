@@ -1,0 +1,8 @@
+setup.py
+cartoon_classifier/__init__.py
+cartoon_classifier/classifier.py
+cartoon_classifier.egg-info/PKG-INFO
+cartoon_classifier.egg-info/SOURCES.txt
+cartoon_classifier.egg-info/dependency_links.txt
+cartoon_classifier.egg-info/requires.txt
+cartoon_classifier.egg-info/top_level.txt
